@@ -94,7 +94,7 @@ This project was created by **Vijay BV**.
 Special thanks to **Kaushik Shresth** for providing valuable insights and guidance through YouTube tutorials.
 
 Additional references:
-- Various online sources, including YouTube, Google, and ChatGPT, were used to understand and implement features.
+- Various online sources, including YouTube, Google, and OpenSource AI platforms, were used to understand and implement features.
 
 ## Contributing
 
